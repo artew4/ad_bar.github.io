@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ad_bar.github.io/static/css/main.54ad381c.css",
-    "main.js": "/ad_bar.github.io/static/js/main.83934eec.js",
+    "main.css": "/ad_bar.github.io/static/css/main.3a407efa.css",
+    "main.js": "/ad_bar.github.io/static/js/main.91cb6c96.js",
     "static/js/453.bdd130e3.chunk.js": "/ad_bar.github.io/static/js/453.bdd130e3.chunk.js",
     "static/media/KaTeX_AMS-Regular.ttf": "/ad_bar.github.io/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
     "static/media/KaTeX_Main-Regular.ttf": "/ad_bar.github.io/static/media/KaTeX_Main-Regular.9eba1d77abcf2aa6e94e.ttf",
@@ -68,12 +68,12 @@
     "static/media/slick.eot": "/ad_bar.github.io/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/ad_bar.github.io/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/ad_bar.github.io/static/media/slick.295183786cd8a1389865.woff",
-    "main.54ad381c.css.map": "/ad_bar.github.io/static/css/main.54ad381c.css.map",
-    "main.83934eec.js.map": "/ad_bar.github.io/static/js/main.83934eec.js.map",
+    "main.3a407efa.css.map": "/ad_bar.github.io/static/css/main.3a407efa.css.map",
+    "main.91cb6c96.js.map": "/ad_bar.github.io/static/js/main.91cb6c96.js.map",
     "453.bdd130e3.chunk.js.map": "/ad_bar.github.io/static/js/453.bdd130e3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.54ad381c.css",
-    "static/js/main.83934eec.js"
+    "static/css/main.3a407efa.css",
+    "static/js/main.91cb6c96.js"
   ]
 }
